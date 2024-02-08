@@ -250,7 +250,7 @@ body.border-dark .main-content:after{
 	height:100%;
 	width:100%;
 	background:#303F9F;
-	opacity:.8;
+	opacity:.2;
 	z-index:-1;
 }
 .intro-text{
@@ -1106,7 +1106,7 @@ body.section-switching.up .animation-block{
 }
 .popup-box{
 	background:#FFF;
-	max-width:450px;
+	max-width:850px;
 	margin:0 auto;
 	position:relative;
 	-webkit-box-shadow: 0 0 0 4px #FFF;
