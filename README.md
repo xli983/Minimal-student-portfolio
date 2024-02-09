@@ -1,6 +1,3 @@
-# Minimal-student-portfolio
+Made with Minimal-student-portfolio by naemazam
+https://github.com/naemazam/Minimal-student-portfolio?tab=readme-ov-file#minimal-student-portfolio
 
-
-
-# Demo Video:
-[youtube](https://youtu.be/XQY4I90ty6g)
